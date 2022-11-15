@@ -1,0 +1,24 @@
+{
+  "name": "frontendass1",
+  "version": "1.0.0",
+  "description": "This is a portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betty20000/frontendass1.git"
+  },
+  "author": "Beatrice Mwangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Betty20000/frontendass1/issues"
+  },
+  "homepage": "https://github.com/Betty20000/frontendass1#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
