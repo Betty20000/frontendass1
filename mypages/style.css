@@ -1,0 +1,22 @@
+html
+h1 {
+
+    color: rgb(53, 130, 144);
+    text-decoration: aqua;
+}
+h2 {
+    color: rgb(105, 11, 11);
+}
+footer {
+    color: cornflowerblue;
+    border: blue;
+    font-size: larger;
+    position: static;
+}
+button {
+    size: 5vmax;
+    color: rgb(83, 16, 16);
+    background-color: blueviolet ;
+    border-radius: 50%;
+
+}
